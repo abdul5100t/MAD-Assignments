@@ -10,3 +10,13 @@ Test understanding of Dart syntax, data structures, and basic logic implementati
 
 ### 📌 Note:
 This assignment is part of the **Mobile Application Development** coursework and was completed using the Dart programming language.
+
+## Assignment 2: Object-Oriented Dart Program
+
+### Objective:
+Apply object-oriented concepts in Dart, including classes, constructors, methods, and inheritance.
+
+### 📎 Live Code Link on JDoodle:
+👉 [View and Run the Dart Code](https://www.jdoodle.com/ga/TUPEM6tnmp2wZ%2FFBLJ8wfA%3D%3D)
+### 📌 Note:
+This assignment is part of the **Mobile Application Development** coursework and was completed using the Dart programming language.
