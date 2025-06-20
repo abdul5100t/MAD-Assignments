@@ -15,7 +15,7 @@ Test understanding of Dart syntax, data structures, and basic logic implementati
 ---
 
 ### 📎 Live Code Link on JDoodle:
-👉 [View and Run the Dart Code]([https://www.jdoodle.com/a/your-code-link-here](https://www.jdoodle.com/ga/kkCVVTGdKo%2FM2immc3AztA%3D%3D))
+👉 [View and Run the Dart Code](https://www.jdoodle.com/ga/kkCVVTGdKo%2FM2immc3AztA%3D%3D)
 
 *(Replace the above link with your actual JDoodle link after saving it)*
 
